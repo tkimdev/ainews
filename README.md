@@ -16,7 +16,7 @@ Learned:
 + Hooks 
 + Restful API 
 + Alan AI Studio Scripting 
-+ Reading Documentation Thoroughly 
++ Reading Documentation
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
