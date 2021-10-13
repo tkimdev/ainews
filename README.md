@@ -20,3 +20,8 @@ Learned:
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+
+![asdadsad](https://user-images.githubusercontent.com/68490255/137138220-b32a189b-cbb1-4936-948c-79db2c34fbad.jpg)
+
+![safasfsafasf](https://user-images.githubusercontent.com/68490255/137138229-fcc66e02-b943-49b9-b461-61d3cfd4e68d.jpg)
