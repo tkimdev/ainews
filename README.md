@@ -4,21 +4,21 @@ Artificial Intelligence React News Application using Alan AI. Alan AI is a revol
 
 ### [Live Site](https://stupefied-ride-90a95b.netlify.app/)
 
-Technologies Used: 
+### Technologies Used: 
 + React.js
 + Axios 
 + Material UI
 + React Hooks
 + News API 
 
-Learned: 
+### Learned: 
 + Responsive Design 
 + Hooks 
 + Restful API 
 + Alan AI Studio Scripting 
 + Reading Documentation
 
-Setup:
+### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
 
